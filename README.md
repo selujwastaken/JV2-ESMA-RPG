@@ -1,6 +1,3 @@
-Voici une version **simple**, **sans emoji**, et **copiable-collable**, reformulée en Markdown.
-
----
 
 # Description du jeu
 
@@ -91,3 +88,16 @@ Il existe trois fins possibles :
 
 - Des flèches indiquent la position des ennemis non visibles à l’écran. Elles apparaissent toujours sur les bords.  
 - Les contrôles affichés dans les informations sont dynamiques : ils changent automatiquement si le joueur modifie ses touches à tout moment.
+
+---
+
+## NPC
+
+### NPC – Château
+- Permet d’obtenir 100 HP.  
+- Le prix augmente à chaque achat.
+
+### NPC – Place centrale
+- Vous demande d’acheter une statue contenant le mot **brosse**.  
+- Une fois la statue achetée, retournez lui parler.  
+- La statue se trouve dans la catégorie **Static Mesh** du shop.
